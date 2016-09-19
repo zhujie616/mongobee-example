@@ -1,0 +1,9 @@
+.idea/workspace.xml
+.idea/compiler.xml
+.idea/tasks.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/artifacts
+.idea/shelf
+*.iml
+target/
