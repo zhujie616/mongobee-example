@@ -6,4 +6,10 @@
 
     <bean id="launcher" class="Launcher"/>
 
+    <bean id="mongobee" class="com.github.mongobee.Mongobee">
+        <constructor-arg value="mongodb://localhost:27017"/>
+        <property name="dbName" value="mongobee-example"/>
+        <property name="changeLogsScanPackage" value="mongobee"/>
+    </bean>
+
 </beans>
