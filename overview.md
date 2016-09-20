@@ -5,3 +5,4 @@
 - Does its job (track db state, execute scripts)
 ### Cons:
 - It is not very handy to use Java api in changesets
+- No checksum protection
