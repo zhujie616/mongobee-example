@@ -1,5 +1,0 @@
-Prons:
-- Spring Data support (We can use our java document classes in scripts).
-- Does its job (track db state, run scripts)
-Cons:
-- Usage of js-scripts is much more convenient than Java Api
